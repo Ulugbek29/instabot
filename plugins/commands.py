@@ -18,7 +18,7 @@ async def start(client, message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Подписаться", url=channel_link)
+                    InlineKeyboardButton("Подписаться✅", url=channel_link)
                 ]
             ]
         )
