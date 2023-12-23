@@ -7,7 +7,7 @@ import multiprocessing
 
 API_ID = int(environ.get('API_ID', '20407293'))
 API_HASH = environ.get('API_HASH', 'a87b0b6065257882824b6d566488fb9b')
-BOT_TOKEN = environ.get('BOT_TOKEN', '6591472064:AAEm7A22CLqyVRzHZkVsf_Mtg131uWfMsxo')
+BOT_TOKEN = environ.get('BOT_TOKEN', '5544784741:AAHKpsuyerZKfdKA97nu7WylZY0eNNJwav4')
 LOG_GROUP = int(environ.get('LOG_GROUP', '')) if environ.get('LOG_GROUP') else None
 DUMP_GROUP = int(environ.get('DUMP_GROUP', '')) if environ.get('DUMP_GROUP') else None
 OWNER_ID = int(environ.get('OWNER_ID', '1019484223'))
